@@ -46,13 +46,19 @@ def organize_directory(path):
     print("Organization complete!")
 
 
-
-if __name__ == "__main__":
-    
+def main():
     if len(sys.argv) < 2 :
-        # target_directory = 'E:/sort' 
-        target_directory = input("Enter the path: ")
-        organize_directory(target_directory)
+        target_directory = input("Please enter the full path of the directory you want to organize: ")
     else :
         target_directory = sys.argv[1]
-        organize_directory(target_directory)
+
+    organize_directory(target_directory.strip())
+
+if __name__ == "__main__":
+
+    try:
+        main()
+    except KeyboardInterrupt:
+        #  To cancel the Operation using Ctrl+C
+        print("\n\nOperation cancelled by user. Goodbye!")
+        sys.exit(0)
