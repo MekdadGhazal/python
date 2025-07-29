@@ -23,7 +23,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### 1. Clone the Repository
 Open your terminal and run the following command:
 ```bash
-git clone [https://github.com/MekdadGhazal/python.git](https://github.com/MekdadGhazal/python.git)
+git clone https://github.com/MekdadGhazal/python.git
 cd python
 ```
 ### 2. Install Dependencies
@@ -45,7 +45,7 @@ python organize_files.py /path/to/your/directory
 *Note: Be sure to check each script for specific usage instructions or required arguments.*
 
 # 🤝 Contributing
-Contributions are always welcome to improve these scripts or add new ones! If you have an idea or suggestion, feel free to open an "Issue" or submit a "Pull Request."
+Contributions are always welcome to improve these scripts or add new ones! If you have an idea or suggestion, feel free to open an "[Issue](https://github.com/MekdadGhazal/python/issues/new)" or submit a "[Pull Request](https://github.com/MekdadGhazal/python/compare)".
 
 # 📄 License
 This project is licensed under the [MIT License](LICENSE).
