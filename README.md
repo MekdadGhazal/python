@@ -15,6 +15,7 @@ Welcome to the Python Utility Scripts repository! This project is a collection o
 |`class.py`|A NumberAnalyzer class containing mathematical functions to analyze numbers, such as checking if a number is prime or Armstrong, and calculating its factorial.|
 |`functions.py`|A collection of essential and useful mathematical functions like factorial, Fibonacci sequence, Greatest Common Divisor (GCD), and more.|
 |`data.py`|Contains data processing functions, such as counting character frequency, finding the first non-repeated character, binary search, and checking for balanced parentheses.|
+|`portScanner.py`|This script is a basic port scanner that checks for open ports on a target host (using IP or host name).|
 
 # 🚀 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
