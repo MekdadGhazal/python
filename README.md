@@ -17,6 +17,7 @@ Welcome to the Python Utility Scripts repository! This project is a collection o
 |`data.py`|Contains data processing functions, such as counting character frequency, finding the first non-repeated character, binary search, and checking for balanced parentheses.|
 |`portScanner.py`|This script is a basic port scanner that checks for open ports on a target host (using IP or host name).|
 |`mediaControl.py`|This script turns your webcam into a gesture-based remote control for media applications, providing a touch-free way to manage music and video playback.|
+|`computerControl.py`|Control your computer with the wave of a hand! 🖐️ This project lets you manage media playback and take full control of your mouse cursor using simple gestures in front of your webcam|
 
 # 🚀 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
