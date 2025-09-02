@@ -18,6 +18,7 @@ Welcome to the Python Utility Scripts repository! This project is a collection o
 |`portScanner.py`|This script is a basic port scanner that checks for open ports on a target host (using IP or host name).|
 |`mediaControl.py`|This script turns your webcam into a gesture-based remote control for media applications, providing a touch-free way to manage music and video playback.|
 |`computerControl.py`|Control your computer with the wave of a hand! 🖐️ This project lets you manage media playback and take full control of your mouse cursor using simple gestures in front of your webcam|
+|`Generate Commit`|Leverages the power of Google's Gemini AI to analyze your code changes (git diff) and write meaningful commit messages.|
 
 # 🚀 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
@@ -54,4 +55,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 <p align="center">
 Built with ❤️ by <a href="https://mekdadghazal.github.io/Portfolio/">Mekdad Ghazal</a>
+
 </p>
